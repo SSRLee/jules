@@ -1,0 +1,6 @@
+Pillow
+mss
+opencv-python
+PyAutoGUI
+pytest
+pytest-mock
